@@ -1,0 +1,7 @@
+qwen_agent
+dashscope
+requests
+selenium
+Pillow
+webdriver_manager
+json5
